@@ -1,0 +1,27 @@
+_repo: Corruption-in-American-politics-and-life_72328
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brooks, Robert Clarkson
+    gutenberg_agent_id: '56647'
+    url: http://www.gutenberg.org/2009/agents/56647
+description: ''
+gutenberg_issued: '2023-12-05'
+identifiers:
+  gutenberg: '72328'
+language: en
+pgterms:marc904: https://archive.org/details/corruptioninamer00broorich
+pgterms:marc905: 20200620073231brooks
+pgterms:marc906: '1910'
+pgterms:marc907: US
+production_note: Bob Taylor, Turgut Dincer and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aNew York :$bDodd, Mead and company, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Corruption in American politics and life
+url: http://www.gutenberg.org/ebooks/72328
