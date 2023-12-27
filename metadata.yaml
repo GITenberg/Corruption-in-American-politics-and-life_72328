@@ -1,11 +1,16 @@
 _repo: Corruption-in-American-politics-and-life_72328
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72328-h/images/cover.jpg
 creator:
   author:
     agent_name: Brooks, Robert Clarkson
     gutenberg_agent_id: '56647'
     url: http://www.gutenberg.org/2009/agents/56647
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72328#Corruption-in-American-politics-and-life
 gutenberg_issued: '2023-12-05'
 identifiers:
   gutenberg: '72328'
